@@ -1,0 +1,5 @@
+Django==3.1.5
+openpyxl==3.0.5
+pandas
+pyexcel-xlsx==0.6.0
+xlrd==1.2.0
